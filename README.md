@@ -7,7 +7,7 @@ Este proyecto implementa un paquete Python llamado `Shapes`, el cual contiene cl
 
 ---
 
-## 📦 Estructura del paquete
+##  Estructura del paquete
 
 ```plaintext
 Shapes/
